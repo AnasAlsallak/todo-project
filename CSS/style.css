@@ -1,0 +1,19 @@
+.textBackground
+{
+    background-color: rgb(245, 100, 4);
+} 
+
+.titleColor
+{
+    color: rgb(240, 181, 56);
+}
+
+.textAlignment
+{
+    text-align: center;
+}
+
+.pageBackground
+{
+    background-color: rgb(56, 172, 240); 
+}
