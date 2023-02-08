@@ -1,7 +1,7 @@
 'use strict';
 var uname= prompt("Please enter your name:");
 
-while (uname === "") {
+while (uname === "" || uname === null) {
     alert("Invalid input please enter a valid name");
     uname= prompt("Please enter your name:");
 }
@@ -40,7 +40,6 @@ switch (gender) {
     alert("Welcome "+ uname);
 }
 }
-
 
 
 
