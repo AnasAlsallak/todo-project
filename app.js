@@ -41,7 +41,7 @@ switch (gender) {
 }
 };
 
-let qA,qB,aC;
+let qA,qB,qC;
 
 function userQustionsA () {
     qA = prompt("Would you consider subscribing for the premium version?");
