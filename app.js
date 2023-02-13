@@ -1,4 +1,4 @@
-/*'use strict';
+'use strict';
 var uname= prompt("Please enter your name:");
 
 while (uname === "" || uname === null) {
@@ -40,7 +40,7 @@ switch (gender) {
     alert("Welcome "+ uname);
 }
 };
-*/
+
 let qA,qB,aC;
 
 function userQustionsA () {
